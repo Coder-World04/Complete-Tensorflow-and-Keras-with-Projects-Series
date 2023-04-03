@@ -11,111 +11,111 @@ Start here - [30 days of Tensorflow and Keras with Projects Series
 
 # TensorFlow Basics
 
-What is TensorFlow?
+[What is TensorFlow?](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-How it Works?
+[How it Works?](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-How to Download & Install TensorFLow
+[How to Download & Install TensorFLow](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Jupyter Notebook Tutorial
+[Jupyter Notebook Tutorial](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-TensorFlow Basics
+[TensorFlow Basics](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-TensorBoard Tutorial
+[TensorBoard Tutorial](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Python Pandas Tutorial
+[Python Pandas Tutorial](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Import CSV Data
+[Import CSV Data](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # Linear Regression with TensorFlow
 
-Binary Classification in TensorFlow
+[Binary Classification in TensorFlow](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Gaussian Kernel
+[Gaussian Kernel](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # TensorFlow Perceptron
 
-Single Layer Perceptron
+[Single Layer Perceptron](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Hidden Layer Perceptron
+[Hidden Layer Perceptron](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Multi-layer Perceptron
+[Multi-layer Perceptron](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # ANN in TensorFlow
 
-What is Artificial Neural Network
+[What is Artificial Neural Network](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Implementation of Neural Network
+[Implementation of Neural Network](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Classification of Neural Network
+[Classification of Neural Network](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # CNN in TensorFlow
 
-CNN Introduction
+[CNN Introduction](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Working of CNN
+[Working of CNN](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-CNN project
+[CNN project](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # RNN in TensorFlow
 
-RNN Introduction
+[RNN Introduction](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Working of RNN
+[Working of RNN](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-RNN Time Series
+[RNN Time Series](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-LSTM RNN in Tensorflow
+[LSTM RNN in Tensorflow](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Training of RNN
+[Training of RNN](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Types of RNN
+[Types of RNN](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # Autoencoders
 
-TensorFlow Autoencoder
+[TensorFlow Autoencoder](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # Style Transferring
 
-Style Transferring in TensorFlow
+[Style Transferring in TensorFlow](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Gram Matrix in Style Transferring
+[Gram Matrix in Style Transferring](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Style Transferring Working
+[Style Transferring Working](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # TensorFlow Debugging
 
-TensorFlow Debugging
+[TensorFlow Debugging](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # Keras Basics
 
-What is Keras?
+[What is Keras?](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Installation of Keras
+[Installation of Keras](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Keras Backends
+[Keras Backends](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Keras Models
+[Keras Models](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Keras layers
+[Keras layers](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # Keras Models and Layers
 
-Keras Model class
+[Keras Model class](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Keras Sequential class
+[Keras Sequential class](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Keras Core Layers
+[Keras Core Layers](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Recurrent Layers
+[Recurrent Layers](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Embedding Layers
+[Embedding Layers](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Keras Merge Layers
+[Keras Merge Layers](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Convolutional Layer
+[Convolutional Layer](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
-Pooling Layers
+[Pooling Layers](https://medium.com/coders-mojo/implemented-tensorflow-and-keras-projects-adbaed77d572?sk=dab9d9584be3eb7a63125b871515e0e4)
 
 # Tensorflow and Keras Projects (40)
 
