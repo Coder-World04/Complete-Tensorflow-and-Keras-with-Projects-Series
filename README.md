@@ -4,6 +4,8 @@ This repository contains everything you need to become proficient in Tensorflow 
 ![keras-tensorflow-logo](https://user-images.githubusercontent.com/104568275/210071638-f23fa07e-a71f-481f-8b37-28f2efb9cf9c.jpeg)
 
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 Start here - [30 days of Tensorflow and Keras with Projects Series
 ](https://medium.com/coders-mojo/30-days-of-tensorflow-and-keras-with-projects-series-f52e0815d696?sk=945bb73c32bc967b7e056f894fab7626)
 
